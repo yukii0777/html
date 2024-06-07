@@ -2,7 +2,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Diário</title>
+        <title> Diário </title>
         <link rel="stylesheet" href="estilo.css">
         <script src="script.js"></script>
     </head>
