@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <title>Diário</title>
         <link rel="stylesheet" href="estilo.css">
-        <script src="script.js"><</script>
+        <script src="script.js"></script>
     </head>
     <body>
      relatos de um adolescente 
